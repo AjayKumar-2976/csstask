@@ -1,0 +1,41 @@
+h1{
+    font-size: 70px;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bolder;
+    font-style: unset;
+    text-shadow: 10px 25px black;
+}
+
+#para1{
+    font-size: 18;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(104, 147, 173);
+}
+
+#para2{
+    font-size: 18;
+    font-weight: bold;
+    font-style: inherit;
+  color: rgb(0, 0, 0);
+}
+
+#para3{
+    font-size: 18;
+    font-weight: bold;
+    font-style: oblique;
+    color: rgb(243, 243, 243);
+}
+#para4{
+    font-size: 18;
+    font-weight: bold;
+    font-style: unset;
+    color: rgb(217, 216, 221);
+}
+
+ body{
+
+    background-image:url(image9.jpg);
+    background-size: cover;
+ }
